@@ -1,1 +1,7 @@
-Анализ тональности (англ. sentiment analysis) — это процесс анализа цифрового текста, чтобы определить, является ли эмоциональный тон сообщения положительным, отрицательным или нейтральным. ![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Flevity.ai%2Fblog%2Fcustomer-sentiment-analysis&psig=AOvVaw2AJRXdPiSVID7Y-rC3pkU2&ust=1701337433512000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjOvOH26IIDFQAAAAAdAAAAABAJ)
+Анализ тональности (англ. sentiment analysis) — это процесс анализа цифрового текста, чтобы определить, является ли эмоциональный тон сообщения положительным, отрицательным или нейтральным. 
+
+<img src="https://github.com/MariaShaiina/NLP-2023/blob/main/Lab3-Sentiment%20analysis/sentiment-img.png" width="594" height="474">
+
+В данной лабораторной работе используются методы векторизации (TF-IDF) и классификации (метод опорных векторов и случайный лес) для создания модели, способной определить настроение отзыва на основе его текста 
+
+В качестве входных данных к лабораторной работе взят широко известный набор данных IMDB, содержащий 50K обзоров фильмов (imdb-dataset-of-50k-movie-reviews). Откликами являются значения двух классов positive и negative
