@@ -1,1 +1,1 @@
-
+Анализ тональности (англ. sentiment analysis) — это процесс анализа цифрового текста, чтобы определить, является ли эмоциональный тон сообщения положительным, отрицательным или нейтральным. ![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Flevity.ai%2Fblog%2Fcustomer-sentiment-analysis&psig=AOvVaw2AJRXdPiSVID7Y-rC3pkU2&ust=1701337433512000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjOvOH26IIDFQAAAAAdAAAAABAJ)
